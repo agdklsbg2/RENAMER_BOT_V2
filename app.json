@@ -27,7 +27,7 @@
             "description":"AzmonVIP1402"
         },
         "DB_URL": {
-            "description": "mongodb+srv://TGRenamer:Hassan0098.ir@cluster0.plabzc4.mongodb.net/?retryWrites=true&w=majority",
+            "description": "mongodb+srv://TGRenamer:Hassan0098.ir@cluster0.plabzc4.mongodb.net/cluster0?retryWrites=true&w=majority",
             "value": ""
         },
         "DB_NAME":{ 
