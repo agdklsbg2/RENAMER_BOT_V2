@@ -1,11 +1,11 @@
 import pymongo 
 import os
 
-DB_NAME = os.environ.get("DB_NAME","")
-DB_URL = os.environ.get("DB_URL","")
+DB_NAME = os.environ.get("DB_NAME","TGRenamer")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://TGRenamer:Hassan0098.ir@cluster0.plabzc4.mongodb.net/?retryWrites=true&w=majority")
 mongo = pymongo.MongoClient(DB_URL)
-db = mongo[DB_NAME]
-dbcol = db["user"]
+db = mongo[TGRenamer]
+dbcol = db["Cluster0"]
 
 def insert(chat_id):
             user_id = int(chat_id)
