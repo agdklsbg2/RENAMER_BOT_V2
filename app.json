@@ -5,33 +5,33 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/lntechnical2/RENAMER_BOT",
-    "success_url": "https://telegram.dog/lntechnical",
+    "repository": "https://github.com/agdklsbg2/RENAMER_BOT",
+    "success_url": "https://telegram.dog/agdklsbg2",
     "env": {
         "API_ID": {
-            "description": "Your App api_id from https://my.telegram.org",
+            "description": "24188340",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your App api_hash from https://my.telegram.org",
+            "description": "176df5b4c6d99b4e5b3f9be2baa8f6e9",
             "value": ""
         },
         "TOKEN": {
-            "description": "Your Bot Token from [BotFather](https://t.me/BotFather)",
+            "description": "5865662663:AAG0n3-YPuGL0JKaqDIq_pM5LZHRqbEILX4",
             "value": ""
         },
         "ADMIN": {
-            "description":"Add Your User ID: You can get it by typing '/id' to https://t.me/MissRose_bot"
+            "description":"5713207124"
         },
         "CHANNEL": {
-            "description":"Your Channel User Name without @"
+            "description":"AzmonVIP1402"
         },
         "DB_URL": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "description": "mongodb+srv://TGRenamer:Hassan0098.ir@cluster0.plabzc4.mongodb.net/?retryWrites=true&w=majority",
             "value": ""
         },
         "DB_NAME":{ 
-               "description":"Your Mongo DB Database Name ",
+               "description":"TGRenamer",
                 "value": "my",
                 "required": false
         }
